@@ -1,3 +1,4 @@
+paddle
 shapely
 scikit-image
 imgaug
